@@ -88,7 +88,7 @@ ul {
 }
 
 #switch button:hover {
-  outline: 5px solid var(--highlight-color);
+  outline: 8px solid var(--highlight-color);
 }
 
 .light #switch button {
@@ -132,9 +132,9 @@ ul {
 }
 
 #links li a:hover {
-  border: 1.5px solid var(--text-color);
+  border: 1px solid var(--text-color);
   background-color: var(--surface-color-hover);
-  padding-block: 15.5px;
+
 }
 
 /* ** SOCIAL LINKS ** */
